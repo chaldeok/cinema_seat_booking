@@ -1,5 +1,6 @@
 # cinema_seat_booking
 Show movies and seats to select them for purchasing.
+
 Pure HTML, CSS and JS
 
 Customer can:
